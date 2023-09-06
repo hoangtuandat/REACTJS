@@ -1,4 +1,23 @@
 {
+    "home-hearder" : {
+        "branch" : "Chi nhánh phòng tập",
+        "choosethenearestbranch" : "Chọn chi nhánh gần nhất",
+        "coach" : "Huấn luyện viên",
+        "choosecoach": "Chọn huấn luyện viên phù hợp",
+        "trainingpackages": "Các gói luyện tập",
+        "basetrainingpackages": "Các gói luyện tập cơ bản",
+        "help" : "Giúp đỡ"
+    },
+
+    "banner" : {
+        "directconsultation" : "Tư vấn trực tiếp",
+        "promotionprogram" : "Chương trình khuyến mãi",
+        "pt": "Huấn luyện viên cá nhân",
+        "erobicclass": "Lớp học Erobic",
+        "weightloss": "Khoá học giảm cân"
+    },
+
+
     "common": {
         "add": "Thêm",
         "edit": "Sửa",

@@ -1,4 +1,23 @@
 {
+
+    "home-hearder" : {
+        "branch" : "Branch",
+        "choosethenearestbranch" : "Choose the nearest branch",
+        "coach" : "Coach",
+        "choosecoach": "Select an appropriate coach",
+        "trainingpackages": "Trainning packages",
+        "basetrainingpackages": "Base trainning packages",
+        "help" : "Support"
+    },
+
+    "banner" : {
+        "directconsultation" : "Direct consultation",
+        "promotionprogram" : "Promotion program",
+        "pt": "Personal trainer",
+        "erobicclass": "Erobic class",
+        "weightloss": "Weight loss"
+    },
+
     "common": {
         "add": "Add",
         "edit": "Edit",
